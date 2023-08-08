@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/vars_and_exp/META"
+  "_build/install/default/lib/vars_and_exp/dune-package"
+  "_build/install/default/lib/vars_and_exp/opam"
+]
+bin: [
+  "_build/install/default/bin/vars_and_exp"
+]
